@@ -1,0 +1,9 @@
+.genre-scroll {
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .genre-scroll .btn {
+    flex-shrink: 0;
+  }
+  
